@@ -58,6 +58,9 @@ const Contact = () => {
             I'm currently available to take on new projects, so feel free to send
             me a message about anything that you want.
           </p>
+          <p>
+          <a href="https://github.com/khushbusingh123" target="_blank">My GitHub Profile</a>
+          </p>
           <div className="contact-details">
             <div className="contact-detail">
               <img src={mail_icon} alt="" />
@@ -69,7 +72,7 @@ const Contact = () => {
             </div>
             <div className="contact-detail">
               <img src={call_icon} alt="" />
-              <p>9555219367</p>
+              <p>9555219320</p>
             </div>
           </div>
         </div>
