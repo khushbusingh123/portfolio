@@ -9,6 +9,8 @@ import vImage from "../assets/v.png";
 import bImage from "../assets/b.png";
 import webImage from "../assets/web.png";
 import cowImage from "../assets/cow.png";
+import baImage from "../assets/ba.png";
+import baaImage from "../assets/baa.png";
 
 const mywork_data = [
     {
@@ -45,8 +47,15 @@ const mywork_data = [
     {
         w_no: 6,
         w_name: "Project 6",
-        w_img: project6_img,
-        w_link: "https://yourproject6.com"
+        w_img: baaImage,
+        w_link: "https://edusity-6q9t.vercel.app/"
+    },
+
+    {
+        w_no: 7,
+        w_name: "Project 7",
+        w_img:  baImage,
+        w_link: "https://new-chat-app-six.vercel.app/login"
     },
 ];
 
